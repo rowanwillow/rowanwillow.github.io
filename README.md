@@ -1,3 +1,17 @@
+
+Project 1: Petri dish in the shape of an "e"
+I wanted to 3d print a petri dish in the shape on an E for a project in my "Experiments in Cinema" class, but after it took a long time and I realized I was limited on time, it didn't seem practical to 3d print petri dishes to spell out the entire word "experiments" 
+
+Anyways, it still turned out cool!
+
+
+<img src="e_image1.jpg">
+<img src="e_image2.jpg">
+<img src="e_image3.jpg">
+
+
+
+
 my name is rowan!
 
 i love mushrooms and fashion and i just want to have fun on this mortal plane
