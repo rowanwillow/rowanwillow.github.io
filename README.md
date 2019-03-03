@@ -1,7 +1,7 @@
 Lab visit
 FOr my lab visit project, I went to the mycology lab on campus. It was an interesting experience, and the mycologist (one of the 2 at unm) seemed more interested in genetics and the model organism neospora crassa rather than mycology in general. Regardless, we had a good talk about fungi in regards to art and what citizen science means.
 
-<img src="slide1.jpg"> <img src="slide2.jpg"> <img src="slide3.jpg"> <img src="slide4.jpg"> <img src="slide5.jpg"> <img src="slide6.jpg"> <img src="slide7.jpg"> 
+<img src="Slide1.JPG"> <img src="Slide2.JPG"> <img src="Slide3.JPG"> <img src="Slide4.JPG"> <img src="Slide5.JPG"> <img src="Slide6.JPG"> <img src="Slide7.JPG"> 
 
 
 Project 1: Petri dish in the shape of an "e"
