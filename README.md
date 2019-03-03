@@ -1,3 +1,8 @@
+Lab visit
+FOr my lab visit project, I went to the mycology lab on campus. It was an interesting experience, and the mycologist (one of the 2 at unm) seemed more interested in genetics and the model organism neospora crassa rather than mycology in general. Regardless, we had a good talk about fungi in regards to art and what citizen science means.
+
+<img src="slide1.jpg"> <img src="slide2.jpg"> <img src="slide3.jpg"> <img src="slide4.jpg"> <img src="slide5.jpg"> <img src="slide6.jpg"> <img src="slide7.jpg"> 
+
 
 Project 1: Petri dish in the shape of an "e"
 I wanted to 3d print a petri dish in the shape on an E for a project in my "Experiments in Cinema" class, but after it took a long time and I realized I was limited on time, it didn't seem practical to 3d print petri dishes to spell out the entire word "experiments" 
