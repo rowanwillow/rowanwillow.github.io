@@ -1,3 +1,9 @@
+Note Documentation
+I recently came across a large roll of butcher paper, so I'm trying to do large notetaking in my studio and see how that affects my practice.
+
+<img src="wall1.JPG"> <img src="wall2.JPG"> <img src="wall3.JPG">
+
+
 Midterm Presentation
 
 <img src="pSlide5 (4).JPG"> <img src="pSlide5 (5).JPG"> <img src="pSlide5 (6).JPG"> <img src="pSlide5 (7).JPG"> <img src="pSlide5 (1).JPG"> <img src="pSlide5 (2).JPG"> <img src="pSlide5 (3).JPG">
