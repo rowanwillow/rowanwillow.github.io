@@ -1,7 +1,7 @@
 Note Documentation
 I recently came across a large roll of butcher paper, so I'm trying to do large notetaking in my studio and see how that affects my practice.
 
-<img src="wall1.JPG"> <img src="wall2.JPG"> <img src="wall3.JPG">
+<img src="wall1.jpg"> <img src="wall2.jpg"> <img src="wall3.jpg">
 
 
 Midterm Presentation
