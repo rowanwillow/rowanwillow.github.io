@@ -1,4 +1,15 @@
+Biohack Final
+
+Here is a link to my presentation video : https://vimeo.com/328076333
+
+Here are my slides as photos. They include 8/10 of the people surveyed
+
+
+<img src="tear1.JPG"> <img src="tear2.JPG"> <img src="tear3.JPG"> <img src="tear4.JPG"> <img src="tear5.JPG"> <img src="tear6.JPG"> <img src="tear7.JPG"> <img src="tear8.JPG"> <img src="tear9.JPG"> <img src="tear91.JPG"> <img src="tear92.JPG"> <img src="tear93.JPG"> <img src="tear94.JPG"> <img src="tear95.JPG"><img src="tear96.JPG"> <img src="tear97.JPG"> 
+
 Note Documentation
+
+
 I recently came across a large roll of butcher paper, so I'm trying to do large notetaking in my studio and see how that affects my practice.
 
 <img src="wall1.jpg"> <img src="wall2.jpg"> <img src="wall3.jpg">
